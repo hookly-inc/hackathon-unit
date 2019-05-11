@@ -1,0 +1,19 @@
+body{
+    background-color: #f8f9fa!important
+}
+.navbar{
+background-color:#00BFFF
+}
+#navTitle{
+    padding-left: 10px;
+}
+#main{
+    margin: auto;
+    align-items: center
+}
+.title{
+    font-family: 'Montserrat', sans-serif;
+    text-shadow:  4px 3px 3px rgba(0,0,0,0.2);
+    font-size: 18px;
+    font-weight: 300;
+}
