@@ -6,6 +6,11 @@ background-color:#00BFFF
 }
 #navTitle{
     padding-left: 10px;
+    padding-right: 20px;
+    color: #fff
+}
+#painelTitle{
+  color:rgb(100, 100, 100)
 }
 #main{
     margin: auto;

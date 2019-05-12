@@ -17,3 +17,25 @@ background-color:#00BFFF
     font-size: 18px;
     font-weight: 300;
 }
+#voltar{
+    padding-bottom: 30px;
+}
+
+#component:hover{
+	transition: all 0.5s ease-out; 
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 1px 3px 20px rgba(0,0,0,0.5);
+}
+#voltarIcon{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 900;
+}
+#navTitle{
+    padding-left: 10px;
+    padding-right: 20px;
+    color: #fff
+}
